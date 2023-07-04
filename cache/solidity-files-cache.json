@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/diegocaminor/Documents/proyectos/platzi/escuela-crypto/curso-de-dapps/counter-dapp/contracts/Counter.sol": {
+      "lastModificationDate": 1688390345730,
+      "contentHash": "f10a494531cb2cd10a91dfcccd4ca802",
+      "sourceName": "contracts/Counter.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": [
+        "Counter"
+      ]
+    }
+  }
+}
